@@ -1,6 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;300;400&display=swap");
+
 * {
-  margin: 0 auto;
-  padding: 0;
   box-sizing: border-box;
 }
 
@@ -12,5 +12,18 @@ body {
 
 h1 {
   text-align: center;
-  color: rgb(76, 111, 85);
+  color: rgb(106, 134, 107);
+  font-family: raleway;
+}
+
+#menu-horizontal {
+  list-style: none;
+  padding: 0;
+  background-color: rgb(106, 134, 107);
+  color: white;
+  font-family: raleway;
+}
+
+#menu-horizontal li {
+  display: inline;
 }
