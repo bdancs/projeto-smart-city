@@ -3,3 +3,8 @@ body {
   height: 100%;
   background: alice;
 }
+
+h1 {
+  text-align: center;
+  color: rgb(71, 107, 71);
+}
